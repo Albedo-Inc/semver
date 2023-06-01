@@ -1,5 +1,5 @@
 {
-  "name": "@jscutlery/semver",
+  "name": "@albedo-inc/semver",
   "version": "1.0.0",
   "description": "Nx plugin for automate versioning and CHANGELOG generation.",
   "license": "MIT",
