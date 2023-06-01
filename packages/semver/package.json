@@ -10,7 +10,7 @@
     "node": ">=12.0.0"
   },
   "repository": {
-    "url": "https://github.com/jscutlery/semver"
+    "url": "https://github.com/Albedo-Inc/semver.git"
   },
   "ng-add": {
     "save": "devDependencies"
