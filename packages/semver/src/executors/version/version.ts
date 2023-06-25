@@ -196,7 +196,7 @@ export function versionProject({
       createTag({
         dryRun,
         tag,
-        commitHash,
+        commitHash: 'HEAD',
         commitMessage,
         projectName,
       })
